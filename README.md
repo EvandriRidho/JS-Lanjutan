@@ -2,3 +2,4 @@
 1. Prototype
 2. Closure
 3. Arrow Function
+4. Filter, Map , Reduce
