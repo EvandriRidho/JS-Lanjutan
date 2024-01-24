@@ -3,3 +3,4 @@
 2. Closure
 3. Arrow Function
 4. Filter, Map , Reduce
+5. Template Literals
