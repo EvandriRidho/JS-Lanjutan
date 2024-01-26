@@ -4,3 +4,4 @@
 3. Arrow Function
 4. Filter, Map , dan Reduce
 5. Template Literals
+6. Destructuring
