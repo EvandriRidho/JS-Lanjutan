@@ -5,3 +5,4 @@
 4. Filter, Map , dan Reduce
 5. Template Literals
 6. Destructuring
+7. for..of & for.in
