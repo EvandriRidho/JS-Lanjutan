@@ -6,4 +6,4 @@
 5. Template Literals
 6. Destructuring
 7. for..of & for.in
-8. Sprad Operator & Rest Parameter
+8. Spread Operator & Rest Parameter
