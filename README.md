@@ -7,3 +7,4 @@
 6. Destructuring
 7. For..of & For..in
 8. Spread Operator & Rest Parameter
+9. Asynchronous Javascript
