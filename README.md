@@ -9,3 +9,4 @@
 8. Spread Operator & Rest Parameter
 9. Asynchronous Javascript
 10. Callback
+11. Promise
