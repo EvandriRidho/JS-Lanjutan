@@ -36,9 +36,9 @@ const mhs = [ // Array of object
 
 // Asynchoronous Callback
 function getDataMahasiswa(url, success, error) {
-    let xhr = new XMLHttpRequest();
+    let xhr = new XMLHttpRequest(); // Membuat Objek
 
-    xhr.onreadystatechange = function() {
+    xhr.onreadystatechange = function() { // Event Handler yang dipasang pd xhr
         if(xhr.readyState === 4) {
             if(xhr.status === 200) {
                 success(xhr.response);
@@ -48,8 +48,8 @@ function getDataMahasiswa(url, success, error) {
         }
     }
 
-    xhr.open('get', url);
-    xhr.send();
+    xhr.open('get', url); // Menentukan Jenis Permintaan
+    xhr.send(); // Mengirim Ke server
 }
 
 // console.log('Mulai');
