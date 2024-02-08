@@ -10,3 +10,4 @@
 9. Asynchronous Javascript
 10. Callback & Latihan Callback
 11. Promise
+12. Fetch
