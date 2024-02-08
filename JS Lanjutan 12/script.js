@@ -63,8 +63,8 @@ searchButton.addEventListener('click', function() {
                             const movieDetail = showMovieDetail(m)
                             const modalBody = document.querySelector('.modal-body');
                             modalBody.innerHTML = movieDetail;
-                        })
-                })
+                        });
+                });
             })
         })
 
@@ -102,3 +102,9 @@ function showMovieDetail(m) {
     </div>
   </div>`;
 }
+
+// Tambahan Fetch()
+/* Method API JS untuk mengambil resource dari jaringan,
+dan mengembalikan promise ketika response tersedia */
+// fetch(resource(URL / Object Request), init(opsi dlm object, default = get))
+// Response => Promise
