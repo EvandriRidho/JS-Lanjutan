@@ -11,3 +11,4 @@
 10. Callback & Latihan Callback
 11. Promise
 12. Fetch
+13. Async Await
